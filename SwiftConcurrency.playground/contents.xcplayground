@@ -8,5 +8,6 @@
         <page name='Recursive-lock'/>
         <page name='Condition'/>
         <page name='Read-write-lock'/>
+        <page name='Spin-lock'/>
     </pages>
 </playground>

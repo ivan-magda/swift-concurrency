@@ -11,6 +11,7 @@
  1. [`Recursive Lock`](Recursive-lock)
  1. [`Condition`](Condition)
  1. [`Read Write Lock`](Read-write-lock)
+ 1. [`Spin Lock`](Spin-lock)
 
  */
 /*:
