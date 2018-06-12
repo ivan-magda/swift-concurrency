@@ -6,5 +6,6 @@
         <page name='Quality-of-service'/>
         <page name='Synchronization'/>
         <page name='Recursive-lock'/>
+        <page name='Condition'/>
     </pages>
 </playground>
