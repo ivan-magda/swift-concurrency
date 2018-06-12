@@ -10,6 +10,7 @@
  1. [`Synchronization`](Synchronization)
  1. [`Recursive Lock`](Recursive-lock)
  1. [`Condition`](Condition)
+ 1. [`Read Write Lock`](Read-write-lock)
 
  */
 /*:

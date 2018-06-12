@@ -7,5 +7,6 @@
         <page name='Synchronization'/>
         <page name='Recursive-lock'/>
         <page name='Condition'/>
+        <page name='Read-write-lock'/>
     </pages>
 </playground>
