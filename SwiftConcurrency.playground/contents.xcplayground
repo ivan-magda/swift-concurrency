@@ -9,5 +9,6 @@
         <page name='Condition'/>
         <page name='Read-write-lock'/>
         <page name='Spin-lock'/>
+        <page name='Synchronized'/>
     </pages>
 </playground>
