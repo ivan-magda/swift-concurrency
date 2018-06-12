@@ -10,5 +10,6 @@
         <page name='Read-write-lock'/>
         <page name='Spin-lock'/>
         <page name='Synchronized'/>
+        <page name='Atomic-operations'/>
     </pages>
 </playground>

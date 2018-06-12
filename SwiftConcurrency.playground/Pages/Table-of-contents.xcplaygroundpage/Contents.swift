@@ -13,6 +13,7 @@
  1. [`Read Write Lock`](Read-write-lock)
  1. [`Spin Lock`](Spin-lock)
  1. [`Synchronized`](Synchronized)
+ 1. [`Atomic Operations`](Atomic-operations)
 
  */
 /*:
