@@ -5,5 +5,6 @@
         <page name='Creating-and-Starting-Threads'/>
         <page name='Quality-of-service'/>
         <page name='Synchronization'/>
+        <page name='Recursive-lock'/>
     </pages>
 </playground>
