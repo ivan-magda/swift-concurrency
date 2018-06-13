@@ -15,5 +15,6 @@
         <page name='Methods'/>
         <page name='ConcurrentPerform'/>
         <page name='WorkItem'/>
+        <page name='Semaphore'/>
     </pages>
 </playground>

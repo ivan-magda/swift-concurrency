@@ -20,6 +20,7 @@
     1. [`Queue Methods`](Methods)
     1. [`Concurrent Perform`](ConcurrentPerform)
     1. [`DispatchWorkItem`](WorkItem)
+    1. [`Semaphore`](Semaphore)
 
  */
 /*:
