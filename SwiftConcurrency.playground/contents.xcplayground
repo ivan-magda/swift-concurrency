@@ -12,5 +12,6 @@
         <page name='Synchronized'/>
         <page name='Atomic-operations'/>
         <page name='Queues'/>
+        <page name='Methods'/>
     </pages>
 </playground>

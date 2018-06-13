@@ -17,6 +17,7 @@
      1. [`Atomic Operations`](Atomic-operations)
  - GCD
     1. [`Queues`](Queues)
+    1. [`Queue Methods`](Methods)
 
  */
 /*:
