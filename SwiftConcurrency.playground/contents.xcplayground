@@ -11,5 +11,6 @@
         <page name='Spin-lock'/>
         <page name='Synchronized'/>
         <page name='Atomic-operations'/>
+        <page name='Queues'/>
     </pages>
 </playground>
