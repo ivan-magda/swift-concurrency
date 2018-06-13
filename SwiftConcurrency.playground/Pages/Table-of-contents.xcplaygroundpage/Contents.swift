@@ -22,6 +22,7 @@
     1. [`DispatchWorkItem`](WorkItem)
     1. [`Semaphore`](Semaphore)
     1. [`Dispatch Group`](DispatchGroup)
+    1. [`Dispatch Barrier`](DispatchBarrier)
 
  */
 /*:

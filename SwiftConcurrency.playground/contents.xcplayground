@@ -17,5 +17,6 @@
         <page name='WorkItem'/>
         <page name='Semaphore'/>
         <page name='DispatchGroup'/>
+        <page name='DispatchBarrier'/>
     </pages>
 </playground>
