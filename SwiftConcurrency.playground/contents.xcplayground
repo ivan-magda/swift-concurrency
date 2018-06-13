@@ -19,5 +19,6 @@
         <page name='DispatchGroup'/>
         <page name='DispatchBarrier'/>
         <page name='DispatchSource'/>
+        <page name='Operation'/>
     </pages>
 </playground>

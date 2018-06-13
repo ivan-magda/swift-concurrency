@@ -24,6 +24,8 @@
     1. [`Dispatch Group`](DispatchGroup)
     1. [`Dispatch Barrier`](DispatchBarrier)
     1. [`Dispatch Source`](DispatchSource)
+ - Operation
+    1. [`Operation`](Operation)
 
  */
 /*:
