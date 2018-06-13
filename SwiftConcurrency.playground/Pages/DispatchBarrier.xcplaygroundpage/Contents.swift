@@ -1,7 +1,7 @@
 /*:
  [Table of contents](Table-of-contents) • [Previous page](@previous) • [Next page](@next)
 
- # DispatchBarrier
+ # Dispatch Barrier
  */
 import Foundation
 

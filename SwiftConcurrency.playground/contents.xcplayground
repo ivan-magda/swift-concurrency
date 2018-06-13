@@ -18,5 +18,6 @@
         <page name='Semaphore'/>
         <page name='DispatchGroup'/>
         <page name='DispatchBarrier'/>
+        <page name='DispatchSource'/>
     </pages>
 </playground>
