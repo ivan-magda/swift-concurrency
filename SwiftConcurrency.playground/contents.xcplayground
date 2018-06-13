@@ -14,5 +14,6 @@
         <page name='Queues'/>
         <page name='Methods'/>
         <page name='ConcurrentPerform'/>
+        <page name='WorkItem'/>
     </pages>
 </playground>

@@ -19,6 +19,7 @@
     1. [`Queues`](Queues)
     1. [`Queue Methods`](Methods)
     1. [`Concurrent Perform`](ConcurrentPerform)
+    1. [`DispatchWorkItem`](WorkItem)
 
  */
 /*:
