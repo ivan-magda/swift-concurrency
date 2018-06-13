@@ -16,5 +16,6 @@
         <page name='ConcurrentPerform'/>
         <page name='WorkItem'/>
         <page name='Semaphore'/>
+        <page name='DispatchGroup'/>
     </pages>
 </playground>

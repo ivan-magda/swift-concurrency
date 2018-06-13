@@ -21,6 +21,7 @@
     1. [`Concurrent Perform`](ConcurrentPerform)
     1. [`DispatchWorkItem`](WorkItem)
     1. [`Semaphore`](Semaphore)
+    1. [`Dispatch Group`](DispatchGroup)
 
  */
 /*:
