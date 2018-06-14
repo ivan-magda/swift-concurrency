@@ -25,5 +25,6 @@
         <page name='CancelOperation'/>
         <page name='WaitUntil'/>
         <page name='CompletionBlock'/>
+        <page name='Suspend'/>
     </pages>
 </playground>
