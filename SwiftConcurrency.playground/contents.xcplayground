@@ -20,5 +20,6 @@
         <page name='DispatchBarrier'/>
         <page name='DispatchSource'/>
         <page name='Operation'/>
+        <page name='OperationQueue'/>
     </pages>
 </playground>
