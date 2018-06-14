@@ -30,6 +30,7 @@
     1. [`Max Concurrent Operation Count`](MaxConcurrentOperationCount)
     1. [`Cancel Operation`](CancelOperation)
     1. [`Waint Until`](WaintUntil)
+    1. [`Completion Block`](CompletionBlock)
 
  */
 /*:

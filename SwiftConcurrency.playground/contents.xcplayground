@@ -24,5 +24,6 @@
         <page name='MaxConcurrentOperationCount'/>
         <page name='CancelOperation'/>
         <page name='WaitUntil'/>
+        <page name='CompletionBlock'/>
     </pages>
 </playground>
