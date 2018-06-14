@@ -21,5 +21,6 @@
         <page name='DispatchSource'/>
         <page name='Operation'/>
         <page name='OperationQueue'/>
+        <page name='MaxConcurrentOperationCount'/>
     </pages>
 </playground>

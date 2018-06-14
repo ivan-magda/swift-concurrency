@@ -27,6 +27,7 @@
  - Operation
     1. [`Operation`](Operation)
     1. [`Operation Queue`](OperationQueue)
+    1. [`Max Concurrent Operation Count`](MaxConcurrentOperationCount)
 
  */
 /*:
